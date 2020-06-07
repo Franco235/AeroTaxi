@@ -11,11 +11,11 @@ public class VentanaRegistro extends JFrame {
         this.setBounds(100, 60, 800, 500);
         setDefaultCloseOperation(EXIT_ON_CLOSE);
         setTitle("Aerotaxis Un'kut");
-        iniciarComponentes();
+        iniciarComponentesRegistro();
         
     }
 
-    private void iniciarComponentes(){
+    private void iniciarComponentesRegistro(){
 
         colocarPanel();
         colocarEtiquetas();

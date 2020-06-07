@@ -1,18 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d55ab8c4-6dfa-4ca7-b52b-2a97e8b47613" name="Default Changelist" comment="">
-<<<<<<< Updated upstream
-      <change beforePath="$PROJECT_DIR$/src/usuario/Bronze.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/usuario/Gold.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/usuario/Silver.java" beforeDir="false" />
-=======
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/usuario/VentanaIngreso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/usuario/VentanaRegistro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/usuario/main.java" afterDir="false" />
+    <list default="true" id="0e668780-43a1-4c60-acb8-c81b5b0029f7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/usuario/VentanaSolicitud.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
->>>>>>> Stashed changes
+      <change beforePath="$PROJECT_DIR$/out/production/AeroTaxi/usuario/Avion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AeroTaxi/usuario/Avion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AeroTaxi/usuario/VentanaIngreso.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AeroTaxi/usuario/VentanaIngreso.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AeroTaxi/usuario/VentanaRegistro.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AeroTaxi/usuario/VentanaRegistro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AeroTaxi/usuario/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AeroTaxi/usuario/main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/usuario/VentanaIngreso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/usuario/VentanaIngreso.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/usuario/VentanaRegistro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/usuario/VentanaRegistro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/usuario/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/usuario/main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,10 +27,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1csmRmovvwk3LCDiSIw7eaXcb7N" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="1d06gDsKp7CU0UtZjDhTm4VSrdi" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -40,8 +35,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Universidad/Aerotaxi git gonza/AeroTaxi/src/usuario/main.java" />
   </component>
   <component name="RunManager">
     <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -49,7 +43,7 @@
       <module name="AeroTaxi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="usuario.panelBienvenida" />
+          <option name="PATTERN" value="usuario.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,69 +62,34 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d55ab8c4-6dfa-4ca7-b52b-2a97e8b47613" name="Default Changelist" comment="" />
-      <created>1591325668296</created>
+      <changelist id="0e668780-43a1-4c60-acb8-c81b5b0029f7" name="Default Changelist" comment="" />
+      <created>1591549773080</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1591325668296</updated>
+      <updated>1591549773080</updated>
     </task>
     <servers />
   </component>
-<<<<<<< Updated upstream
-=======
   <component name="WindowStateProjectService">
-    <state x="488" y="48" key="#com.intellij.ide.util.MemberChooser" timestamp="1591458365282">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1591550139671">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="488" y="48" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1591458365282" />
-    <state x="255" y="0" key="CommitChangelistDialog2" timestamp="1591459811322">
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1591550139671" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1591553803874">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="255" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1591459811322" />
-    <state x="463" y="81" key="FileChooserDialogImpl" timestamp="1591459449564">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1591553803874" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1591553803874">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="81" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1591459449564" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1591519562340">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1591553803874" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1591553803874">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1591519562340" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1591519562339">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1591553803874" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1591553803874">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1591519562339" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1591519562339">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1591519562339" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1591519562339">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1591519562339" />
-    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1591508045323">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1591508045323" />
-    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1591508045323">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1591508045323" />
-    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1591508045323">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1591508045323" />
-    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1591508045323">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1591508045323" />
-    <state x="348" y="124" key="NewModule_or_Project.wizard" timestamp="1591459465408">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="348" y="124" key="NewModule_or_Project.wizard/0.0.1366.728@0.0.1366.728" timestamp="1591459465408" />
-    <state x="389" y="111" key="refactoring.ChangeSignatureDialog" timestamp="1591518906608">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="389" y="111" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1591518906608" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1591553803874" />
   </component>
->>>>>>> Stashed changes
 </project>

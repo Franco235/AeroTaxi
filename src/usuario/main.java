@@ -7,7 +7,10 @@ public class main {
       /*  VentanaIngreso ventania = new VentanaIngreso();
         ventania.setVisible(true);*/
 
-        VentanaRegistro ventania = new VentanaRegistro();
+       /* VentanaRegistro ventania = new VentanaRegistro();
+        ventania.setVisible(true);*/
+
+        VentanaSolicitud ventania = new VentanaSolicitud();
         ventania.setVisible(true);
     }
 }

@@ -11,13 +11,13 @@ public class VentanaIngreso extends JFrame {
         this.setBounds(100, 60, 800, 500);
         setDefaultCloseOperation(EXIT_ON_CLOSE);
         setTitle("Aerotaxis Un'kut");
-        iniciarComponentes();
+        iniciarComponentesIngreso();
     }
 
 
     //Creando el panel de la primera ventana
 
-    private void iniciarComponentes(){
+    private void iniciarComponentesIngreso(){
 
         colocarPanel();
         colocarEtiquetas();
