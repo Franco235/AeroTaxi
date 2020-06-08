@@ -7,13 +7,19 @@ public class Avion {
     private int capacidadPasajeros;
     private int velocidadMax;
     private String propulsor;
+    private String categoria;
+    private boolean catering;
+    private boolean wiFi;
 
-    public Avion(int capacidadComb, int costoKm, int capacidadPasajeros, int velocidadMax, String propulsor) {
+    public Avion(int capacidadComb, int costoKm, int capacidadPasajeros, int velocidadMax, String propulsor, String categoria, boolean catering, boolean wiFi) {
         this.capacidadComb = capacidadComb;
         this.costoKm = costoKm;
         this.capacidadPasajeros = capacidadPasajeros;
         this.velocidadMax = velocidadMax;
         this.propulsor = propulsor;
+        this.categoria = categoria;
+        this.catering = catering;
+        this.wiFi = wiFi;
     }
 
     public int getCapacidadComb() {
@@ -54,5 +60,29 @@ public class Avion {
 
     public void setPropulsor(String propulsor) {
         this.propulsor = propulsor;
+    }
+
+    public String getCategoria() {
+        return categoria;
+    }
+
+    public void setCategoria(String categoria) {
+        this.categoria = categoria;
+    }
+
+    public boolean isCatering() {
+        return catering;
+    }
+
+    public void setCatering(boolean catering) {
+        this.catering = catering;
+    }
+
+    public boolean isWiFi() {
+        return wiFi;
+    }
+
+    public void setWiFi(boolean wiFi) {
+        this.wiFi = wiFi;
     }
 }
